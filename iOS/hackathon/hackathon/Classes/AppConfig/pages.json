@@ -1,0 +1,23 @@
+ [
+  {
+		"menu": {
+            "name": "Activity",
+            "image": "activity",
+            "selected": "1"
+		},
+		"nib": {
+            "indentifier": "activityViewController"
+		}
+  },
+  {
+		"menu": {
+            "name": "Setting",
+            "image": "settings",
+            "selected": "0"
+		},
+		"nib": {
+            "indentifier": "filterViewController"
+		}
+  
+  }
+]

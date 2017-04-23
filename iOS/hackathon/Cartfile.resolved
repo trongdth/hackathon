@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire" "4.4.0"
+github "SwiftyJSON/SwiftyJSON" "3.1.4"
+github "danielgindi/Charts" "v3.0.2"
+github "jdg/MBProgressHUD" "1.0.0"
+github "rasmusth/BluetoothKit" "0.4.0"
+github "realm/realm-cocoa" "v2.6.1"
